@@ -8,7 +8,7 @@ export const environment = {
     projectId: "angular-afdc3-abs",
     storageBucket: "angular-afdc3-abs.appspot.com",
     messagingSenderId: "742216655860",
-    appId: "1:742216655860:web:e9ec8787c21d6b62270fa1"
+    appId: "agregar tu ruta--"
   }
   
   
